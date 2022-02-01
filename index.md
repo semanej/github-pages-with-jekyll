@@ -17,5 +17,5 @@ I'm glad you are here. I plan to talk about creating GitHub pages.
 
 <a id="raw-url" href="https://raw.githubusercontent.com/semanej/github-pages-with-jekyll/master/test.txt" download="download" target=_blank>Download FILE</a>
 
-<a id="raw-url" href="https://semenej.github.io/github-pages-with-jekyll/blob/gh-pages/test.txt" download="download" target=_blank>Download FILE</a>
+<a id="raw-url" href="https://semanej.github.io/github-pages-with-jekyll/blob/gh-pages/test.txt" download="download" target=_blank>Download FILE</a>
 
