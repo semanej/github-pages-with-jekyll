@@ -14,6 +14,8 @@ I'm glad you are here. I plan to talk about creating GitHub pages.
 <button type="button" name="Cplusplus" class="btn" href="https://raw.githubusercontent.com/semanej/github-pages-with-jekyll/master/test.txt">C++</button>
 
 <button type="submit" class="btn" onclick="window.location.href='https://semanej.github.io/github-pages-with-jekyll/test.txt'">Download!</button>
+<button class="btn" onclick="document.getElementById('link').click()">Download2!</button>
+<a id="link" href="https://semanej.github.io/github-pages-with-jekyll/test.txt" download="test.txt" target="_blank" hidden></a>
 
 # Get Started
 1. Download
