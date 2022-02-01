@@ -2,9 +2,9 @@
 title: "Welcome"
 ---
 
-I'm glad you are here. I plan to talk about creating GitHub pages.
+Here you can download drivers. blah blah blah
 
-# Content
+# Drivers
 <button class="btn" onclick="document.getElementById('java').click()">Java</button>
 <a id="java" href="https://semanej.github.io/github-pages-with-jekyll/test.txt" download="test.txt" target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('dotnet').click()">.NET</button>
