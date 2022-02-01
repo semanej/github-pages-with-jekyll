@@ -8,6 +8,10 @@ I'm glad you are here. I plan to talk about creating GitHub pages.
 - <a id="raw-url" href="https://raw.githubusercontent.com/semanej/github-pages-with-jekyll/master/test.txt" download="download" target="_blank">File 1</a>
 - <a id="raw-url" href="https://raw.githubusercontent.com/semanej/github-pages-with-jekyll/master/test.txt" download="download" target="_blank">File 2</a>
 
+
+[File 1](https://raw.githubusercontent.com/semanej/github-pages-with-jekyll/master/test.txt){: .btn .btn-blue }
+<button type="button" name="Java" class="btn" href="https://raw.githubusercontent.com/semanej/github-pages-with-jekyll/master/test.txt">Java</button>
+
 # Get Started
 1. Download
 2. Follow instructions
