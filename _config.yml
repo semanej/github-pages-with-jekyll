@@ -4,6 +4,9 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Download drivers to support your needs.
 remote_theme: pmarsceill/just-the-docs
+aux_links:
+  "View on GitHub":
+    - "//github.com/semanej/github-pages-with-jekyll"
 ## theme: jekyll-theme-minimal
 
 # social links
