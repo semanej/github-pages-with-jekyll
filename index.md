@@ -14,13 +14,13 @@ This repo provides drivers for use in making programmatic connections to IRIS Cl
 
 ## Drivers
 <button class="btn" onclick="document.getElementById('java').click()">Java</button>
-<a id="java" href="https://semanej.github.io/github-pages-with-jekyll/test.txt" download="test.txt" target="_blank" hidden></a>
+<a id="java" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems-jdbc-3.1.0.jar?raw=true" download target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('dotnet').click()">.NET</button>
 <a id="dotnet" href="https://semanej.github.io/github-pages-with-jekyll/test.txt" download="test.txt" target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('python').click()">Python</button>
 <a id="python" href="https://semanej.github.io/github-pages-with-jekyll/test.txt" download="test.txt" target="_blank" hidden></a>
 <button class="btn" onclick="document.getElementById('Cplusplus').click()">C++</button>
-<a id="Cplusplus" href="https://github.com/intersystems-community/iris-driver-distribution/blob/main/intersystems-jdbc-3.1.0.jar?raw=true" download target="_blank" hidden></a>
+<a id="Cplusplus" href="https://github.com/intersystems-community/iris-driver-distribution/tree/main/ODBC" target="_blank" hidden></a>
 
 ## Get Started
 - Read documentation about using drivers and connections strings:
